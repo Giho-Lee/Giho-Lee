@@ -1,5 +1,22 @@
-### Hi there 👋
+# Giho Lee
 
+ - Education: Guilin University of Electronic Technology
+ - Personal Website: https://github.com/Giho-Lee
+ - Location: Shenzhen, Guangdong, China
+ - E-Mail: giho.lee.amour@gmail.com
+
+# Professional Tools
+
+ - BackEnd Programming Language
+  - Erlang
+  - C/C++
+  - Python
+ - Tools:
+  - Version control systems : Git & Github
+  - Operator system : Linux
+  - Data Base : MySQL 
+  - Text editors : Emacs & Vim
+  
 <!--
 **Giho-Lee/Giho-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
