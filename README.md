@@ -6,13 +6,13 @@
  - E-Mail: giho.lee.amour@gmail.com
 
 # Professional Tools
-- job: 
+- day job: 
   - Software Development Engineer
 - hobbies: 
   - Swimming
   - Guitar
   - Basketball
-- Programming Language:
+- Programming Languages:
   - Erlang
   - C/C++
   - Rust
