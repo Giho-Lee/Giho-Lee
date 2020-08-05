@@ -1,5 +1,6 @@
 # Giho Lee
 
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
 - Education: Guilin University of Electronic Technology
