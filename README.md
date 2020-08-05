@@ -1,14 +1,16 @@
 # Giho Lee
 
+- 🌱 I’m currently learning ...
+
 - Education: Guilin University of Electronic Technology
- - Personal Website: https://github.com/Giho-Lee
- - Location: Shenzhen, Guangdong, China
- - E-Mail: giho.lee.amour@gmail.com
+- Personal Website: https://github.com/Giho-Lee
+- Location: Shenzhen, Guangdong, China
+- E-Mail: giho.lee.amour@gmail.com
 
 # Professional Tools
-- day job: 
+- Day Job: 
   - Software Development Engineer
-- hobbies: 
+- Hobbies: 
   - Swimming
   - Guitar
   - Basketball
@@ -17,10 +19,10 @@
   - C/C++
   - Rust
 - Tools:
-  - Version control systems : Git & Github
-  - Operator system : Linux
+  - Version Control Systems : Git & Github
+  - Operator System : Linux
   - Data Base : MySQL 
-  - Text editors : Emacs & Vim
+  - Text Editors : Emacs & Vim
   
 <!--
 **Giho-Lee/Giho-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
